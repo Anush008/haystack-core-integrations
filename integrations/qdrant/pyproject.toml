@@ -27,7 +27,7 @@ classifiers = [
 ]
 dependencies = [
   "haystack-ai",
-  "qdrant-client^1.7.0",
+  "qdrant-client=^1.7.0",
 ]
 
 [project.urls]
